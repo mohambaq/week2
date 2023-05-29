@@ -16,6 +16,8 @@ public class Week2 {
     public static void main(String[] args) {
         // TODO code application l
    System.out.println("changes at remort repository");
+        
+        //changes to learn fetch and merge
     }
     
 }
